@@ -1,0 +1,7 @@
+2024-03-01 23:37:16 - big head (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\head)
+2024-03-01 23:37:16 - small eyes (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\eyes)
+2024-03-01 23:39:51 - big head (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\head)
+2024-03-01 23:39:51 - small eyes (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\eyes)
+2024-03-01 23:41:30 - oval head (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\head)
+2024-03-02 00:49:15 - kpt head (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\head)
+2024-03-02 01:04:39 - kpt head (image not found in C:/Users/Pratham jain/Desktop/RIT/rit/semister 8/major project/speech-to-text/images\head)
