@@ -20,7 +20,7 @@ def listen_and_recognize():
         print("Processing speech...")
         text = recognizer.recognize_google(audio)
         print("You said: " + text)
-        with open(r'C:\Users\Pratham jain\Desktop\RIT\rit\semister 8\major project\speech-to-text\op.txt', 'a') as f:
+        with open('../speech-to-text/op.txt', 'a') as f:
             f.write(text + '\n')
         f.close()
     except sr.UnknownValueError:
